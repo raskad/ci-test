@@ -17,4 +17,4 @@ jobs:
         run: |
           npm i -g esvu
           esvu install libjs
-          ./bin/ladybird-js data/bench/bench-v8/combined.js > data/bench/libjs_results.txt
+          ./bin/ladybird-js
